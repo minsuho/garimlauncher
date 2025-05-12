@@ -1,0 +1,28 @@
+{
+  "$schema": "file:///C:/Users/11/Documents/GitHub/garimlauncher/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "garim (Minecraft 1.20.1)",
+    "description": "garim Running Minecraft 1.20.1 (Forge v47.4.0)",
+    "icon": "http://raw.githubusercontent.com/minsuho/garimlauncher/refs/heads/main/icon.png",
+    "address": "mc.gitter0.xyz",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.0"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": [
+        "**/*"
+      ]
+    }
+  ]
+}

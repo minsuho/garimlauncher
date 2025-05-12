@@ -1,0 +1,9 @@
+#Mon May 12 21:55:29 KST 2025
+SHADOW_VPS=false
+shadowMapResolution=1024
+VL=false
+ENTITY_SHADOWS=false
+WATER_PARALLAX=false
+INFO=0
+ENVIRONMENT_REFLECTIONS=false
+SHADOW_COLOR=false
