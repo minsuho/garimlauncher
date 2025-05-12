@@ -11,7 +11,7 @@
       "id": "garim-1.20.1",
       "name": "garim (Minecraft 1.20.1)",
       "description": "garim Running Minecraft 1.20.1 (Forge v47.4.0)",
-      "icon": "https://raw.githubusercontent.com/minsuho/garimlauncher/refs/heads/main/ico.png",
+      "icon": "https://github.com/minsuho/garimlauncher/blob/main/ico.png",
       "version": "1.0.0",
       "address": "mc.gitter0.xyz",
       "minecraftVersion": "1.20.1",
@@ -498,8 +498,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5043375,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/optionalon/Connector-1.0.0-beta.46+1.20.1.jar",
             "MD5": "c12d01f7b20d6909689e458dd9fa760b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
