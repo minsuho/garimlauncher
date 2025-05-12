@@ -493,13 +493,13 @@
           }
         },
         {
-          "id": "generated.forgemod:continuity:3.0.0+1.20.1.forge@jar",
-          "name": "Continuity",
+          "id": "com.supermartijn642:connectedglass:1.1.13@jar",
+          "name": "Connected Glass",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1016666,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/continuity-3.0.0+1.20.1.forge.jar",
-            "MD5": "d14cdccb4b6c161d9846cc8cdf03068e"
+            "size": 871676,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/connectedglass-1.1.13-forge-mc1.20.1.jar",
+            "MD5": "13b280c06f47dddb474bbc1b398d6d3b"
           }
         },
         {
@@ -603,6 +603,16 @@
           }
         },
         {
+          "id": "com.supermartijn642:fusion:1.2.7+b@jar",
+          "name": "Fusion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 540383,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/fusion-1.2.7b-forge-mc1.20.1.jar",
+            "MD5": "c675f476a9d1f14047b4e1b4a9b36b40"
+          }
+        },
+        {
           "id": "software.bernie.example:geckolib:4.7.1.2@jar",
           "name": "GeckoLib 4",
           "type": "ForgeMod",
@@ -687,9 +697,9 @@
           "name": "Key_binding_mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8272,
+            "size": 8292,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/key_binding_mod-1.0-SNAPSHOT.jar",
-            "MD5": "09c9f2c92ebbd159c2bae9cfe22d86ff"
+            "MD5": "623bd7da689fc97f363967d0e0f094db"
           }
         },
         {
@@ -793,6 +803,16 @@
           }
         },
         {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 515362,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+            "MD5": "6559d43627646f16fbe02de085e98d5c"
+          }
+        },
+        {
           "id": "com.tacz.guns:tacz:1.1.5@jar",
           "name": "Timeless & Classics Guns: Zero",
           "type": "ForgeMod",
@@ -810,26 +830,6 @@
             "size": 1161380,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.36.jar",
             "MD5": "9436bd10d61fc139a6f4f39d85929317"
-          }
-        },
-        {
-          "id": "Connector-1.0.0-beta.46+1.20.1.jar",
-          "name": "Connector-1.0.0-beta.46+1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 5043375,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/Connector-1.0.0-beta.46+1.20.1.jar",
-            "path": "mods/Connector-1.0.0-beta.46+1.20.1.jar"
-          }
-        },
-        {
-          "id": "fabric-api-0.92.2+1.11.12+1.20.1.jar",
-          "name": "fabric-api-0.92.2+1.11.12+1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 3041277,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/fabric-api-0.92.2+1.11.12+1.20.1.jar",
-            "path": "mods/fabric-api-0.92.2+1.11.12+1.20.1.jar"
           }
         },
         {
