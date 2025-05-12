@@ -11,7 +11,7 @@
       "id": "garim-1.20.1",
       "name": "garim (Minecraft 1.20.1)",
       "description": "garim Running Minecraft 1.20.1 (Forge v47.4.0)",
-      "icon": "http://raw.githubusercontent.com/minsuho/garimlauncher/refs/heads/main/icon.png",
+      "icon": "https://github.com/minsuho/garimlauncher/blob/main/ico.png",
       "version": "1.0.0",
       "address": "mc.gitter0.xyz",
       "minecraftVersion": "1.20.1",
