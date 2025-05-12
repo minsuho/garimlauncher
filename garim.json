@@ -837,7 +837,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8357,
+            "size": 8800,
             "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -877,7 +877,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 9815,
+            "size": 9876,
             "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }
@@ -887,7 +887,7 @@
           "name": "servers.dat_old",
           "type": "File",
           "artifact": {
-            "size": 9813,
+            "size": 9876,
             "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/files/servers.dat_old",
             "path": "servers.dat_old"
           }
