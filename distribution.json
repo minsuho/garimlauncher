@@ -11,7 +11,7 @@
       "id": "garim-1.20.1",
       "name": "garim (Minecraft 1.20.1)",
       "description": "garim Running Minecraft 1.20.1 (Forge v47.4.0)",
-      "icon": "https://github.com/minsuho/garimlauncher/blob/main/ico.png",
+      "icon": "https://raw.githubusercontent.com/minsuho/garimlauncher/refs/heads/main/ico.png",
       "version": "1.0.0",
       "address": "mc.gitter0.xyz",
       "minecraftVersion": "1.20.1",
@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7399,
             "MD5": "a839d5603a05491f84f6c36284ab0ea8",
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar"
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 16612,
                 "MD5": "029daa8b97e10cedd4d6726a563379ab",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/versions/1.20.1-forge-47.4.0/1.20.1-forge-47.4.0.json"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/versions/1.20.1-forge-47.4.0/1.20.1-forge-47.4.0.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 118914,
                 "MD5": "bc798cdec9ec7eeb3354b550d5e67652",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16855,
                 "MD5": "10ca1edc0a62ea799c4327bfc44e5ad6",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 4998,
                 "MD5": "cd3d6af64b394583aa83090915469f9e",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2776081,
                 "MD5": "f373b63ab9bfe53f7b35aaa425afa136",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 4826828,
                 "MD5": "1940b09c4b066287963bde17aa375cec",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-client.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/forge/1.20.1-47.4.0/forge-1.20.1-47.4.0-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 31872,
                 "MD5": "5295505357ba9b98450c5e3121f82191",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 2167292,
                 "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 267079,
                 "MD5": "5b26aba9f44796d54094022c1e73a49e",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.0/fmlloader-1.20.1-47.4.0.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 170517,
                 "MD5": "68747d96f635b0a0dc9e070d3596a562",
-                "url": "https://raw.githubusercontent.com/minsuho/gariml/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar"
+                "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.0/fmlearlydisplay-1.20.1-47.4.0.jar"
               }
             }
           ]
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 601173,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/Aquaculture-1.20.1-2.5.5.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Aquaculture-1.20.1-2.5.5.jar",
             "MD5": "515dde53d77858310af77cd93a5d1316"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 214212,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/aquaculturedelight-1.1.0-forge-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/aquaculturedelight-1.1.0-forge-1.20.1.jar",
             "MD5": "f5307bcbd04abb15a4b52ff3255555e5"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5810422,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-3.2.0-beta.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-3.2.0-beta.jar",
             "MD5": "530d5f07e42ee3d4a85f7b42e7c15d6b"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 468517,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/BetterF3-7.0.2-Forge-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/BetterF3-7.0.2-Forge-1.20.1.jar",
             "MD5": "7411ae023390cf6b148f05a6b685279f"
           }
         },
@@ -478,7 +478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 348530,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/caramelChat-mc1.20.1-forge-1.2.0.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/caramelChat-mc1.20.1-forge-1.2.0.jar",
             "MD5": "5d362f779efdb0384f8b43815fd46e0c"
           }
         },
@@ -488,7 +488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
           }
         },
@@ -498,7 +498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5043375,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
             "MD5": "c12d01f7b20d6909689e458dd9fa760b"
           }
         },
@@ -508,7 +508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1016666,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/continuity-3.0.0+1.20.1.forge.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/continuity-3.0.0+1.20.1.forge.jar",
             "MD5": "d14cdccb4b6c161d9846cc8cdf03068e"
           }
         },
@@ -518,7 +518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 376140,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar",
             "MD5": "f65cd2a7cbafa0394abe340a65fb6949"
           }
         },
@@ -528,7 +528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 623178,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/EggDelight-v1.2-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/EggDelight-v1.2-1.20.1.jar",
             "MD5": "e01c61d195a2fcc387ed8dd9cafee374"
           }
         },
@@ -538,7 +538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1320675,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
             "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
           }
         },
@@ -548,7 +548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 75290,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/entityculling-forge-1.7.4-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/entityculling-forge-1.7.4-mc1.20.1.jar",
             "MD5": "a6bc8ba692b23fac2aa0e6d3afad47cf"
           }
         },
@@ -558,7 +558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1333908,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/exposure-1.20.1-1.7.13-forge.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/exposure-1.20.1-1.7.13-forge.jar",
             "MD5": "eaf0495f4119654986c92f6a925691e4"
           }
         },
@@ -568,7 +568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3041277,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.12+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.12+1.20.1.jar",
             "MD5": "b430b265a793d097d5567a960c6a5492"
           }
         },
@@ -578,7 +578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2954263,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.7.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.7.jar",
             "MD5": "a91b9909757a8fa36303eef730033c7b"
           }
         },
@@ -588,7 +588,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 123034,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
@@ -598,7 +598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 40368,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/fishingoverhaul-1.20.1-1.2.0.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/fishingoverhaul-1.20.1-1.2.0.jar",
             "MD5": "9e5020d41214a362170372c0ac2c76b5"
           }
         },
@@ -608,7 +608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 12869,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/ForgeClientResetPacket-0.3.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/ForgeClientResetPacket-0.3.1.jar",
             "MD5": "a5957f3448beeae5a07a4924f7f30e95"
           }
         },
@@ -618,7 +618,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 308420,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
             "MD5": "1b6b6ccc60c5a6ef2c232553f8a060f4"
           }
         },
@@ -628,7 +628,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1012500,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
             "MD5": "b5e9905073787ed9ab392aaf22b65a40"
           }
         },
@@ -638,7 +638,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22294,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/gtnick-1.0-SNAPSHOT.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/gtnick-1.0-SNAPSHOT.jar",
             "MD5": "93c7e2025182ed4d8d66318914ed214f"
           }
         },
@@ -648,7 +648,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2180392,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/immersive_aircraft-1.2.2+1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/immersive_aircraft-1.2.2+1.20.1-forge.jar",
             "MD5": "18fa516980439d1b7f4fd1d3a68334f8"
           }
         },
@@ -658,7 +658,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4841253,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
             "MD5": "e010b70ceecf34f91f223b8981f50f40"
           }
         },
@@ -668,7 +668,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 550551,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.1.jar",
             "MD5": "e36b4d172480009220be7eae12490943"
           }
         },
@@ -678,7 +678,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1379220,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
             "MD5": "245af433575aef3a47ae73492196018f"
           }
         },
@@ -688,7 +688,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160406,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
           }
         },
@@ -698,7 +698,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 204574,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
             "MD5": "758fe904b5a22ce7b2df824c1a064858"
           }
         },
@@ -708,7 +708,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8272,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/key_binding_mod-1.0-SNAPSHOT.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/key_binding_mod-1.0-SNAPSHOT.jar",
             "MD5": "09c9f2c92ebbd159c2bae9cfe22d86ff"
           }
         },
@@ -718,7 +718,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 625185,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
             "MD5": "d69107c593e361e1b7b96733250bd098"
           }
         },
@@ -728,7 +728,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 227925,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
             "MD5": "5dd9149414ca375ceab146242c6e84ab"
           }
         },
@@ -738,7 +738,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 824640,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/modernfix-forge-5.21.0+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/modernfix-forge-5.21.0+mc1.20.1.jar",
             "MD5": "3231eb6ba18ea27d8dd3a66fc4fc952e"
           }
         },
@@ -748,7 +748,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 78510103,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/ModernxlSurvival_1.3.2_v1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/ModernxlSurvival_1.3.2_v1.20.1.jar",
             "MD5": "1a5d1df2ef52b3b67001769eb469d0e7"
           }
         },
@@ -758,7 +758,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 143363,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/moredelight-25.01.13-1.20-forge.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/moredelight-25.01.13-1.20-forge.jar",
             "MD5": "83c285829addf55bc08105dcd42578d4"
           }
         },
@@ -768,7 +768,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3806919,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/naturalist-5.0pre3+forge-1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/naturalist-5.0pre3+forge-1.20.1.jar",
             "MD5": "6d2eb7ccac3277a9ad69c71ef88f4cc0"
           }
         },
@@ -778,7 +778,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2851119,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
             "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
@@ -788,7 +788,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11913213,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.3.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.3.jar",
             "MD5": "cb0f52b7f015a7483662a0afdbcf877c"
           }
         },
@@ -798,7 +798,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6687573,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.12.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.12.jar",
             "MD5": "1a80f18a5ab4b11befa2a63dc629cb83"
           }
         },
@@ -808,7 +808,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 567590,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/stardew_fishing-1.20.1-2.3.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/stardew_fishing-1.20.1-2.3.jar",
             "MD5": "0ffdb59ecb4e1574db3a8d1e8985012c"
           }
         },
@@ -818,7 +818,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47157607,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/tacz-1.20.1-1.1.5.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/tacz-1.20.1-1.1.5.jar",
             "MD5": "1ad1d97415a7112431d020fe12dda6da"
           }
         },
@@ -828,7 +828,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1161380,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.36.jar",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.36.jar",
             "MD5": "9436bd10d61fc139a6f4f39d85929317"
           }
         },
@@ -838,7 +838,7 @@
           "type": "File",
           "artifact": {
             "size": 8800,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/files/options.txt",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -848,7 +848,7 @@
           "type": "File",
           "artifact": {
             "size": 53321921,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/files/resourcepacks/Patrix_1.20_32x_basic.zip",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Patrix_1.20_32x_basic.zip",
             "path": "resourcepacks/Patrix_1.20_32x_basic.zip"
           }
         },
@@ -858,7 +858,7 @@
           "type": "File",
           "artifact": {
             "size": 4322617,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/files/resourcepacks/Presence%20Footsteps%20R3.zip",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Presence%20Footsteps%20R3.zip",
             "path": "resourcepacks/Presence Footsteps R3.zip"
           }
         },
@@ -868,7 +868,7 @@
           "type": "File",
           "artifact": {
             "size": 374044,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/files/resourcepacks/SkyVillages-LetsDoBeachparty-1.20.1-1.0.4.1.zip",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/SkyVillages-LetsDoBeachparty-1.20.1-1.0.4.1.zip",
             "path": "resourcepacks/SkyVillages-LetsDoBeachparty-1.20.1-1.0.4.1.zip"
           }
         },
@@ -878,7 +878,7 @@
           "type": "File",
           "artifact": {
             "size": 9876,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/files/servers.dat",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }
         },
@@ -888,7 +888,7 @@
           "type": "File",
           "artifact": {
             "size": 9876,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/files/servers.dat_old",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/servers.dat_old",
             "path": "servers.dat_old"
           }
         },
@@ -898,7 +898,7 @@
           "type": "File",
           "artifact": {
             "size": 3563885,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/files/shaderpacks/photon_v1.1.zip",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/shaderpacks/photon_v1.1.zip",
             "path": "shaderpacks/photon_v1.1.zip"
           }
         },
@@ -908,7 +908,7 @@
           "type": "File",
           "artifact": {
             "size": 188,
-            "url": "https://raw.githubusercontent.com/minsuho/gariml/main/servers/garim-1.20.1/files/shaderpacks/photon_v1.1.zip.txt",
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/shaderpacks/photon_v1.1.zip.txt",
             "path": "shaderpacks/photon_v1.1.zip.txt"
           }
         }
