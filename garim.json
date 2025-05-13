@@ -453,6 +453,16 @@
           }
         },
         {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
           "id": "moe.plushie.armourers_workshop.compatibility:armourers_workshop:3.2.0-beta@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
@@ -493,23 +503,13 @@
           }
         },
         {
-          "id": "com.supermartijn642:connectedglass:1.1.13@jar",
-          "name": "Connected Glass",
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
           "type": "ForgeMod",
           "artifact": {
-            "size": 871676,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/connectedglass-1.1.13-forge-mc1.20.1.jar",
-            "MD5": "13b280c06f47dddb474bbc1b398d6d3b"
-          }
-        },
-        {
-          "id": "net.lostluma.dynamic_fps.impl:dynamic_fps:3.9.4@jar",
-          "name": "Dynamic FPS",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 376140,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar",
-            "MD5": "f65cd2a7cbafa0394abe340a65fb6949"
+            "size": 398066,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
           }
         },
         {
@@ -520,26 +520,6 @@
             "size": 623178,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/EggDelight-v1.2-1.20.1.jar",
             "MD5": "e01c61d195a2fcc387ed8dd9cafee374"
-          }
-        },
-        {
-          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
-          "name": "Embeddium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1320675,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
-            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
-          }
-        },
-        {
-          "id": "dev.tr7zw:entityculling:1.7.4@jar",
-          "name": "EntityCulling",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 75290,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/entityculling-forge-1.7.4-mc1.20.1.jar",
-            "MD5": "a6bc8ba692b23fac2aa0e6d3afad47cf"
           }
         },
         {
@@ -560,16 +540,6 @@
             "size": 2954263,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.7.jar",
             "MD5": "a91b9909757a8fa36303eef730033c7b"
-          }
-        },
-        {
-          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
-          "name": "Ferrite Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 123034,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
-            "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
         {
@@ -600,16 +570,6 @@
             "size": 308420,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
             "MD5": "1b6b6ccc60c5a6ef2c232553f8a060f4"
-          }
-        },
-        {
-          "id": "com.supermartijn642:fusion:1.2.7+b@jar",
-          "name": "Fusion",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 540383,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/fusion-1.2.7b-forge-mc1.20.1.jar",
-            "MD5": "c675f476a9d1f14047b4e1b4a9b36b40"
           }
         },
         {
@@ -683,16 +643,6 @@
           }
         },
         {
-          "id": "de.keksuccino:justzoom:2.1.1@jar",
-          "name": "Just Zoom",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 204574,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
-            "MD5": "758fe904b5a22ce7b2df824c1a064858"
-          }
-        },
-        {
           "id": "com.gitter:key_binding_mod:1.0-SNAPSHOT@jar",
           "name": "Key_binding_mod",
           "type": "ForgeMod",
@@ -713,23 +663,13 @@
           }
         },
         {
-          "id": "ca.fxco:memoryleakfix:1.1.5@jar",
-          "name": "Memory Leak Fix",
+          "id": "net.satisfy:beachparty:2.0.2@jar",
+          "name": "[Let's Do] Beachparty",
           "type": "ForgeMod",
           "artifact": {
-            "size": 227925,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
-            "MD5": "5dd9149414ca375ceab146242c6e84ab"
-          }
-        },
-        {
-          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.21.0+mc1.20.1@jar",
-          "name": "ModernFix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 824640,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/modernfix-forge-5.21.0+mc1.20.1.jar",
-            "MD5": "3231eb6ba18ea27d8dd3a66fc4fc952e"
+            "size": 7463421,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/letsdo-beachparty-forge-2.0.2.jar",
+            "MD5": "e547c324ac615f2fe34b742418bf5bd5"
           }
         },
         {
@@ -763,13 +703,13 @@
           }
         },
         {
-          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
-          "name": "Oculus",
+          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
+          "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2851119,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
-            "MD5": "1dd891634ac21591b5a692471f112572"
+            "size": 6638739,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "MD5": "bac4b24df318807f834425d2bfb325a3"
           }
         },
         {
@@ -837,9 +777,69 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8800,
+            "size": 8444,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "optionsof.txt",
+          "name": "optionsof.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1417,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/optionsof.txt",
+            "path": "optionsof.txt"
+          }
+        },
+        {
+          "id": "optionsshaders.txt",
+          "name": "optionsshaders.txt",
+          "type": "File",
+          "artifact": {
+            "size": 379,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/optionsshaders.txt",
+            "path": "optionsshaders.txt"
+          }
+        },
+        {
+          "id": "default.json",
+          "name": "default.json",
+          "type": "File",
+          "artifact": {
+            "size": 200,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Godo%20-%20Font%20Pack/assets/minecraft/font/default.json",
+            "path": "resourcepacks/Godo - Font Pack/assets/minecraft/font/default.json"
+          }
+        },
+        {
+          "id": "font.ttf",
+          "name": "font.ttf",
+          "type": "File",
+          "artifact": {
+            "size": 2183056,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Godo%20-%20Font%20Pack/assets/minecraft/font/font.ttf",
+            "path": "resourcepacks/Godo - Font Pack/assets/minecraft/font/font.ttf"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 89,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Godo%20-%20Font%20Pack/pack.mcmeta",
+            "path": "resourcepacks/Godo - Font Pack/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 680,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Godo%20-%20Font%20Pack/pack.png",
+            "path": "resourcepacks/Godo - Font Pack/pack.png"
           }
         },
         {
@@ -877,7 +877,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 9876,
+            "size": 9815,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }
