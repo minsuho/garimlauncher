@@ -763,6 +763,16 @@
           }
         },
         {
+          "id": "generated.library:1.20.1:OptiFine_HD_U_I6@jar",
+          "name": "1.20.1",
+          "type": "Library",
+          "artifact": {
+            "size": 23028853,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/libraries/1.20.1-OptiFine_HD_U_I6.jar",
+            "MD5": "95f0c064ec0fa739613b993c92a68db4"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
