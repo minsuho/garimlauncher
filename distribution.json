@@ -503,6 +503,26 @@
           }
         },
         {
+          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
+          "name": "Connector",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5043375,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
+            "MD5": "c12d01f7b20d6909689e458dd9fa760b"
+          }
+        },
+        {
+          "id": "generated.forgemod:continuity:3.0.0+1.20.1.forge@jar",
+          "name": "Continuity",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1016666,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/continuity-3.0.0+1.20.1.forge.jar",
+            "MD5": "d14cdccb4b6c161d9846cc8cdf03068e"
+          }
+        },
+        {
           "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
@@ -510,6 +530,16 @@
             "size": 398066,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
             "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          }
+        },
+        {
+          "id": "net.lostluma.dynamic_fps.impl:dynamic_fps:3.9.4@jar",
+          "name": "Dynamic FPS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 376140,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar",
+            "MD5": "f65cd2a7cbafa0394abe340a65fb6949"
           }
         },
         {
@@ -523,6 +553,46 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:2.4.1@jar",
+          "name": "Entity Model Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 445642,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/entity_model_features_forge_1.20.1-2.4.1.jar",
+            "MD5": "d801a1f8c9425012b82619bcdec06666"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:6.2.9@jar",
+          "name": "Entity Texture Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 676887,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/entity_texture_features_forge_1.20.1-6.2.9.jar",
+            "MD5": "5364007c2f40cd1bfaf5037d7355ba31"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.7.4@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 75290,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/entityculling-forge-1.7.4-mc1.20.1.jar",
+            "MD5": "a6bc8ba692b23fac2aa0e6d3afad47cf"
+          }
+        },
+        {
           "id": "io.github.mortuusars:exposure:1.7.13@jar",
           "name": "Exposure",
           "type": "ForgeMod",
@@ -533,6 +603,16 @@
           }
         },
         {
+          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.12+1.20.1@jar",
+          "name": "Forgified Fabric API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3041277,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.12+1.20.1.jar",
+            "MD5": "b430b265a793d097d5567a960c6a5492"
+          }
+        },
+        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.7@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
@@ -540,6 +620,16 @@
             "size": 2954263,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.7.jar",
             "MD5": "a91b9909757a8fa36303eef730033c7b"
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123034,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
         {
@@ -643,6 +733,16 @@
           }
         },
         {
+          "id": "de.keksuccino:justzoom:2.1.1@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 204574,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "MD5": "758fe904b5a22ce7b2df824c1a064858"
+          }
+        },
+        {
           "id": "com.gitter:key_binding_mod:1.0-SNAPSHOT@jar",
           "name": "Key_binding_mod",
           "type": "ForgeMod",
@@ -663,6 +763,16 @@
           }
         },
         {
+          "id": "link.infra.indium:lazurite:1.0.4+mc1.20.1@jar",
+          "name": "Lazurite",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 131418,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/lazurite-1.0.4+mc1.20.1.jar.disabled",
+            "MD5": "23c4c7831c7cda887b9910f45da3c6f2"
+          }
+        },
+        {
           "id": "net.satisfy:beachparty:2.0.2@jar",
           "name": "[Let's Do] Beachparty",
           "type": "ForgeMod",
@@ -670,6 +780,26 @@
             "size": 7463421,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/letsdo-beachparty-forge-2.0.2.jar",
             "MD5": "e547c324ac615f2fe34b742418bf5bd5"
+          }
+        },
+        {
+          "id": "ca.fxco:memoryleakfix:1.1.5@jar",
+          "name": "Memory Leak Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 227925,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
+            "MD5": "5dd9149414ca375ceab146242c6e84ab"
+          }
+        },
+        {
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.21.0+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 824640,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/modernfix-forge-5.21.0+mc1.20.1.jar",
+            "MD5": "3231eb6ba18ea27d8dd3a66fc4fc952e"
           }
         },
         {
@@ -700,6 +830,16 @@
             "size": 3806919,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/naturalist-5.0pre3+forge-1.20.1.jar",
             "MD5": "6d2eb7ccac3277a9ad69c71ef88f4cc0"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
           }
         },
         {
@@ -763,13 +903,13 @@
           }
         },
         {
-          "id": "generated.library:1.20.1:OptiFine_HD_U_I6@jar",
-          "name": "1.20.1",
-          "type": "Library",
+          "id": "waves:waves:1.5.1@jar",
+          "name": "Waves",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 23028853,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/libraries/1.20.1-OptiFine_HD_U_I6.jar",
-            "MD5": "95f0c064ec0fa739613b993c92a68db4"
+            "size": 1278005,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Waves-1.20.1-1.5.1.jar",
+            "MD5": "3ac9423d4430c0d616274e7a1ddf47fc"
           }
         },
         {
