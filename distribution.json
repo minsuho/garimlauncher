@@ -703,23 +703,13 @@
           }
         },
         {
-          "id": "generated.forgemod:optifine:1.20.1_HD_U_I6@jar",
+          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
             "size": 6638739,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/OptiFine_1.20.1_HD_U_I6_MOD.jar",
             "MD5": "bac4b24df318807f834425d2bfb325a3"
-          }
-        },
-        {
-          "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7145205,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/OptiFine_1.20.1_HD_U_I6.jar",
-            "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
           }
         },
         {
@@ -780,6 +770,16 @@
             "size": 1161380,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.36.jar",
             "MD5": "9436bd10d61fc139a6f4f39d85929317"
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
+          "name": "OptiFine_1.20.1_HD_U_I6_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6638739,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/libraries/OptiFine_1.20.1_HD_U_I6_MOD.jar",
+            "MD5": "bac4b24df318807f834425d2bfb325a3"
           }
         },
         {
