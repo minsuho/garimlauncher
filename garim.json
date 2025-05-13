@@ -503,16 +503,6 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
-          "name": "Connector",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5043375,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "c12d01f7b20d6909689e458dd9fa760b"
-          }
-        },
-        {
           "id": "generated.forgemod:continuity:3.0.0+1.20.1.forge@jar",
           "name": "Continuity",
           "type": "ForgeMod",
@@ -600,16 +590,6 @@
             "size": 1333908,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/exposure-1.20.1-1.7.13-forge.jar",
             "MD5": "eaf0495f4119654986c92f6a925691e4"
-          }
-        },
-        {
-          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.12+1.20.1@jar",
-          "name": "Forgified Fabric API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3041277,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.12+1.20.1.jar",
-            "MD5": "b430b265a793d097d5567a960c6a5492"
           }
         },
         {
@@ -910,6 +890,26 @@
             "size": 1278005,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Waves-1.20.1-1.5.1.jar",
             "MD5": "3ac9423d4430c0d616274e7a1ddf47fc"
+          }
+        },
+        {
+          "id": "generated.library:Connector:1.0.0-beta.46+1.20.1@jar",
+          "name": "Connector",
+          "type": "Library",
+          "artifact": {
+            "size": 5043375,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/libraries/Connector-1.0.0-beta.46+1.20.1.jar",
+            "MD5": "c12d01f7b20d6909689e458dd9fa760b"
+          }
+        },
+        {
+          "id": "generated.library:fabric:api-0.92.2+1.11.12+1.20.1@jar",
+          "name": "fabric",
+          "type": "Library",
+          "artifact": {
+            "size": 3041277,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/libraries/fabric-api-0.92.2+1.11.12+1.20.1.jar",
+            "MD5": "b430b265a793d097d5567a960c6a5492"
           }
         },
         {
