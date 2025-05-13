@@ -693,6 +693,16 @@
           }
         },
         {
+          "id": "com.starfish_studios:naturalist:5.0pre2@jar",
+          "name": "Naturalist",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3793857,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/naturalist-5.0pre2+forge-1.20.1.jar",
+            "MD5": "213db37a474642aaa1693bbfb5c574e8"
+          }
+        },
+        {
           "id": "com.starfish_studios:naturalist:5.0pre3@jar",
           "name": "Naturalist",
           "type": "ForgeMod",
@@ -750,6 +760,16 @@
             "size": 47157607,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/tacz-1.20.1-1.1.5.jar",
             "MD5": "1ad1d97415a7112431d020fe12dda6da"
+          }
+        },
+        {
+          "id": "generated.forgemod:terralith:2.5.4@jar",
+          "name": "Terralith",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3156901,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Terralith_1.20.x_v2.5.4.jar",
+            "MD5": "b143cfd648086c68d7f47a86b8994ee3"
           }
         },
         {
