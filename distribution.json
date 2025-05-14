@@ -503,6 +503,16 @@
           }
         },
         {
+          "id": "com.blamejared:crafttweaker:14.0.57@jar",
+          "name": "CraftTweaker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3267904,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/CraftTweaker-forge-1.20.1-14.0.57.jar",
+            "MD5": "dd01e03d08b681dff3f7c1991cbc82a6"
+          }
+        },
+        {
           "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
           "name": "Curios API",
           "type": "ForgeMod",
@@ -647,9 +657,9 @@
           "name": "Key_binding_mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8292,
+            "size": 8293,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/key_binding_mod-1.0-SNAPSHOT.jar",
-            "MD5": "623bd7da689fc97f363967d0e0f094db"
+            "MD5": "a7eb9fd5155e13da7f4f62a23a62a08c"
           }
         },
         {
