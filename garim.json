@@ -593,6 +593,16 @@
           }
         },
         {
+          "id": "com.gitter:gthud:1.0-SNAPSHOT@jar",
+          "name": "GtHud",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 32931,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/gthud-1.0-SNAPSHOT.jar",
+            "MD5": "87e52a6f4cd225cddd85c6312b1afd1b"
+          }
+        },
+        {
           "id": "com.gitter:gtnick:1.0-SNAPSHOT@jar",
           "name": "GtNick Mod",
           "type": "ForgeMod",
