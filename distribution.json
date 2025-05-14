@@ -597,9 +597,9 @@
           "name": "GtHud",
           "type": "ForgeMod",
           "artifact": {
-            "size": 32931,
+            "size": 32937,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/gthud-1.0-SNAPSHOT.jar",
-            "MD5": "87e52a6f4cd225cddd85c6312b1afd1b"
+            "MD5": "0b505ccc27d932b83fd92d46e6eb404a"
           }
         },
         {
@@ -817,7 +817,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8444,
+            "size": 8443,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -837,7 +837,7 @@
           "name": "optionsshaders.txt",
           "type": "File",
           "artifact": {
-            "size": 379,
+            "size": 360,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/optionsshaders.txt",
             "path": "optionsshaders.txt"
           }
@@ -867,7 +867,7 @@
           "name": "pack.mcmeta",
           "type": "File",
           "artifact": {
-            "size": 89,
+            "size": 84,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Godo%20-%20Font%20Pack/pack.mcmeta",
             "path": "resourcepacks/Godo - Font Pack/pack.mcmeta"
           }
@@ -917,7 +917,7 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 9815,
+            "size": 9878,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/servers.dat",
             "path": "servers.dat"
           }
@@ -927,7 +927,7 @@
           "name": "servers.dat_old",
           "type": "File",
           "artifact": {
-            "size": 9876,
+            "size": 9878,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/servers.dat_old",
             "path": "servers.dat_old"
           }
@@ -947,7 +947,7 @@
           "name": "photon_v1.1.zip.txt",
           "type": "File",
           "artifact": {
-            "size": 188,
+            "size": 179,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/shaderpacks/photon_v1.1.zip.txt",
             "path": "shaderpacks/photon_v1.1.zip.txt"
           }
