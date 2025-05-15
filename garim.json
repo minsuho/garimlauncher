@@ -593,16 +593,6 @@
           }
         },
         {
-          "id": "com.gitter:gthud:1.0-SNAPSHOT@jar",
-          "name": "GtHud",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 32937,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/gthud-1.0-SNAPSHOT.jar",
-            "MD5": "0b505ccc27d932b83fd92d46e6eb404a"
-          }
-        },
-        {
           "id": "com.gitter:gtnick:1.0-SNAPSHOT@jar",
           "name": "GtNick Mod",
           "type": "ForgeMod",
@@ -803,6 +793,16 @@
           }
         },
         {
+          "id": "waves:waves:1.5.1@jar",
+          "name": "Waves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1278005,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Waves-1.20.1-1.5.1.jar",
+            "MD5": "3ac9423d4430c0d616274e7a1ddf47fc"
+          }
+        },
+        {
           "id": "generated.library:OptiFine_1.20.1_HD_U_I6_MOD:0.0.0@jar",
           "name": "OptiFine_1.20.1_HD_U_I6_MOD",
           "type": "Library",
@@ -817,7 +817,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8443,
+            "size": 8474,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -900,6 +900,16 @@
             "size": 4322617,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Presence%20Footsteps%20R3.zip",
             "path": "resourcepacks/Presence Footsteps R3.zip"
+          }
+        },
+        {
+          "id": "Rain Revamp [1.20].zip",
+          "name": "Rain Revamp [1.20].zip",
+          "type": "File",
+          "artifact": {
+            "size": 38532,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Rain%20Revamp%20[1.20].zip",
+            "path": "resourcepacks/Rain Revamp [1.20].zip"
           }
         },
         {
