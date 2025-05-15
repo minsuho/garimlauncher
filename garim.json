@@ -903,6 +903,16 @@
           }
         },
         {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 269,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/config/oculus.properties",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
           "id": "Connector-1.0.0-beta.46+1.20.1.jar",
           "name": "Connector-1.0.0-beta.46+1.20.1.jar",
           "type": "File",
