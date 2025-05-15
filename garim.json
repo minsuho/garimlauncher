@@ -523,6 +523,16 @@
           }
         },
         {
+          "id": "com.seibel:distanthorizons:2.3.2-b@jar",
+          "name": "Distant Horizons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17830252,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/DistantHorizons-fabric-forge-2.3.2-b-1.20.1.jar",
+            "MD5": "97fed7eab81bdb45901886a36b48e64d"
+          }
+        },
+        {
           "id": "net.lostluma.dynamic_fps.impl:dynamic_fps:3.9.4@jar",
           "name": "Dynamic FPS",
           "type": "ForgeMod",
