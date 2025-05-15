@@ -433,73 +433,453 @@
           ]
         },
         {
-          "id": "Aquaculture-1.20.1-2.5.5.jar",
-          "name": "Aquaculture-1.20.1-2.5.5.jar",
-          "type": "File",
+          "id": "com.teammetallurgy:aquaculture:2.5.5@jar",
+          "name": "Aquaculture 2",
+          "type": "ForgeMod",
           "artifact": {
             "size": 601173,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/Aquaculture-1.20.1-2.5.5.jar",
-            "path": "mods/Aquaculture-1.20.1-2.5.5.jar"
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Aquaculture-1.20.1-2.5.5.jar",
+            "MD5": "515dde53d77858310af77cd93a5d1316"
           }
         },
         {
-          "id": "aquaculturedelight-1.1.0-forge-1.20.1.jar",
-          "name": "aquaculturedelight-1.1.0-forge-1.20.1.jar",
-          "type": "File",
+          "id": "net.mcreator:aquaculturedelight:1.1.0@jar",
+          "name": "Aquaculture Delight",
+          "type": "ForgeMod",
           "artifact": {
             "size": 214212,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/aquaculturedelight-1.1.0-forge-1.20.1.jar",
-            "path": "mods/aquaculturedelight-1.1.0-forge-1.20.1.jar"
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/aquaculturedelight-1.1.0-forge-1.20.1.jar",
+            "MD5": "f5307bcbd04abb15a4b52ff3255555e5"
           }
         },
         {
-          "id": "architectury-9.2.14-forge.jar",
-          "name": "architectury-9.2.14-forge.jar",
-          "type": "File",
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
           "artifact": {
             "size": 580602,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/architectury-9.2.14-forge.jar",
-            "path": "mods/architectury-9.2.14-forge.jar"
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
           }
         },
         {
-          "id": "armourersworkshop-forge-1.20.1-3.2.0-beta.jar",
-          "name": "armourersworkshop-forge-1.20.1-3.2.0-beta.jar",
-          "type": "File",
+          "id": "moe.plushie.armourers_workshop.compatibility:armourers_workshop:3.2.0-beta@jar",
+          "name": "Armourer's Workshop",
+          "type": "ForgeMod",
           "artifact": {
             "size": 5810422,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/armourersworkshop-forge-1.20.1-3.2.0-beta.jar",
-            "path": "mods/armourersworkshop-forge-1.20.1-3.2.0-beta.jar"
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-3.2.0-beta.jar",
+            "MD5": "530d5f07e42ee3d4a85f7b42e7c15d6b"
           }
         },
         {
-          "id": "BetterF3-7.0.2-Forge-1.20.1.jar",
-          "name": "BetterF3-7.0.2-Forge-1.20.1.jar",
-          "type": "File",
+          "id": "me.treyruffy:betterf3:7.0.2@jar",
+          "name": "BetterF3",
+          "type": "ForgeMod",
           "artifact": {
             "size": 468517,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/BetterF3-7.0.2-Forge-1.20.1.jar",
-            "path": "mods/BetterF3-7.0.2-Forge-1.20.1.jar"
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/BetterF3-7.0.2-Forge-1.20.1.jar",
+            "MD5": "7411ae023390cf6b148f05a6b685279f"
           }
         },
         {
-          "id": "caramelChat-mc1.20.1-forge-1.2.0.jar",
-          "name": "caramelChat-mc1.20.1-forge-1.2.0.jar",
-          "type": "File",
+          "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
+          "name": "CaramelChat",
+          "type": "ForgeMod",
           "artifact": {
             "size": 348530,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/caramelChat-mc1.20.1-forge-1.2.0.jar",
-            "path": "mods/caramelChat-mc1.20.1-forge-1.2.0.jar"
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/caramelChat-mc1.20.1-forge-1.2.0.jar",
+            "MD5": "5d362f779efdb0384f8b43815fd46e0c"
           }
         },
         {
-          "id": "cloth-config-11.1.136-forge.jar",
-          "name": "cloth-config-11.1.136-forge.jar",
-          "type": "File",
+          "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
+          "name": "Cloth Config v10 API",
+          "type": "ForgeMod",
           "artifact": {
             "size": 1181413,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/cloth-config-11.1.136-forge.jar",
-            "path": "mods/cloth-config-11.1.136-forge.jar"
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          }
+        },
+        {
+          "id": "com.blamejared:crafttweaker:14.0.57@jar",
+          "name": "CraftTweaker",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3267904,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/CraftTweaker-forge-1.20.1-14.0.57.jar",
+            "MD5": "dd01e03d08b681dff3f7c1991cbc82a6"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          }
+        },
+        {
+          "id": "net.lostluma.dynamic_fps.impl:dynamic_fps:3.9.4@jar",
+          "name": "Dynamic FPS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 376140,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar",
+            "MD5": "f65cd2a7cbafa0394abe340a65fb6949"
+          }
+        },
+        {
+          "id": "net.mcreator:eggdelight:1.2@jar",
+          "name": "Egg Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 623178,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/EggDelight-v1.2-1.20.1.jar",
+            "MD5": "e01c61d195a2fcc387ed8dd9cafee374"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:2.4.1@jar",
+          "name": "Entity Model Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 445642,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/entity_model_features_forge_1.20.1-2.4.1.jar",
+            "MD5": "d801a1f8c9425012b82619bcdec06666"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:6.2.9@jar",
+          "name": "Entity Texture Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 676887,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/entity_texture_features_forge_1.20.1-6.2.9.jar",
+            "MD5": "5364007c2f40cd1bfaf5037d7355ba31"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.7.4@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 75290,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/entityculling-forge-1.7.4-mc1.20.1.jar",
+            "MD5": "a6bc8ba692b23fac2aa0e6d3afad47cf"
+          }
+        },
+        {
+          "id": "io.github.mortuusars:exposure:1.7.13@jar",
+          "name": "Exposure",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1333908,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/exposure-1.20.1-1.7.13-forge.jar",
+            "MD5": "eaf0495f4119654986c92f6a925691e4"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.7@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2954263,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.7.jar",
+            "MD5": "a91b9909757a8fa36303eef730033c7b"
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123034,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "MD5": "f52f538207a4829d7060550092ce2383"
+          }
+        },
+        {
+          "id": "github.pitbox46:fishingoverhaul:1.20.1-1.2.0@jar",
+          "name": "Fishing Overhaul",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40368,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/fishingoverhaul-1.20.1-1.2.0.jar",
+            "MD5": "9e5020d41214a362170372c0ac2c76b5"
+          }
+        },
+        {
+          "id": "gg.chaldea.client.reset.packet:clientresetpacket:0.0.6@jar",
+          "name": "Client Reset Packet",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12869,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/ForgeClientResetPacket-0.3.1.jar",
+            "MD5": "a5957f3448beeae5a07a4924f7f30e95"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:framework:0.7.12@jar",
+          "name": "Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 308420,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
+            "MD5": "1b6b6ccc60c5a6ef2c232553f8a060f4"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.7.1.2@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1012500,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "MD5": "b5e9905073787ed9ab392aaf22b65a40"
+          }
+        },
+        {
+          "id": "com.gitter:gtnick:1.0-SNAPSHOT@jar",
+          "name": "GtNick Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22294,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/gtnick-1.0-SNAPSHOT.jar",
+            "MD5": "93c7e2025182ed4d8d66318914ed214f"
+          }
+        },
+        {
+          "id": "immersive_aircraft:immersive_aircraft:1.2.2+1.20.1@jar",
+          "name": "Immersive Aircraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2180392,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/immersive_aircraft-1.2.2+1.20.1-forge.jar",
+            "MD5": "18fa516980439d1b7f4fd1d3a68334f8"
+          }
+        },
+        {
+          "id": "immersive_paintings:immersive_paintings:0.6.7+1.20.1@jar",
+          "name": "Immersive Paintings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4841253,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/immersive_paintings-0.6.7+1.20.1-forge.jar",
+            "MD5": "e010b70ceecf34f91f223b8981f50f40"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:11.13.1+forge@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 550551,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.1.jar",
+            "MD5": "e36b4d172480009220be7eae12490943"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.106@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1379220,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.106.jar",
+            "MD5": "245af433575aef3a47ae73492196018f"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.10.3@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7160406,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "be46ebd4654a75a03ecbc5497d2ddce9"
+          }
+        },
+        {
+          "id": "de.keksuccino:justzoom:2.1.1@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 204574,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "MD5": "758fe904b5a22ce7b2df824c1a064858"
+          }
+        },
+        {
+          "id": "com.gitter:key_binding_mod:1.0-SNAPSHOT@jar",
+          "name": "Key_binding_mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8292,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/key_binding_mod-1.0-SNAPSHOT.jar",
+            "MD5": "623bd7da689fc97f363967d0e0f094db"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.8.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625185,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
+          "id": "net.satisfy:beachparty:2.0.2@jar",
+          "name": "[Let's Do] Beachparty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7463421,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/letsdo-beachparty-forge-2.0.2.jar",
+            "MD5": "e547c324ac615f2fe34b742418bf5bd5"
+          }
+        },
+        {
+          "id": "ca.fxco:memoryleakfix:1.1.5@jar",
+          "name": "Memory Leak Fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 227925,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/memoryleakfix-forge-1.17+-1.1.5.jar",
+            "MD5": "5dd9149414ca375ceab146242c6e84ab"
+          }
+        },
+        {
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.21.0+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 824640,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/modernfix-forge-5.21.0+mc1.20.1.jar",
+            "MD5": "3231eb6ba18ea27d8dd3a66fc4fc952e"
+          }
+        },
+        {
+          "id": "net.mcreator.modernxlii:modernxl_ii:1.3.2@jar",
+          "name": "Modernxl_II",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78510103,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/ModernxlSurvival_1.3.2_v1.20.1.jar",
+            "MD5": "1a5d1df2ef52b3b67001769eb469d0e7"
+          }
+        },
+        {
+          "id": "com.axperty:moredelight:25.01.13-1.20-forge@jar",
+          "name": "More Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 143363,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/moredelight-25.01.13-1.20-forge.jar",
+            "MD5": "83c285829addf55bc08105dcd42578d4"
+          }
+        },
+        {
+          "id": "com.starfish_studios:naturalist:5.0pre3@jar",
+          "name": "Naturalist",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3806919,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/naturalist-5.0pre3+forge-1.20.1.jar",
+            "MD5": "6d2eb7ccac3277a9ad69c71ef88f4cc0"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.1.4@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12152471,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/plasmovoice-forge-1.20.1-2.1.4.jar",
+            "MD5": "873ee7fcbdbfe6586e2c3c71738b2be3"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.12@jar",
+          "name": "MrCrayfish's Furniture Mod: Refurbished",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6687573,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.12.jar",
+            "MD5": "1a80f18a5ab4b11befa2a63dc629cb83"
+          }
+        },
+        {
+          "id": "com.bonker.stardewfishing:stardew_fishing:2.3@jar",
+          "name": "Stardew Fishing",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 567590,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/stardew_fishing-1.20.1-2.3.jar",
+            "MD5": "0ffdb59ecb4e1574db3a8d1e8985012c"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 515362,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+            "MD5": "6559d43627646f16fbe02de085e98d5c"
+          }
+        },
+        {
+          "id": "com.tacz.guns:tacz:1.1.5@jar",
+          "name": "Timeless & Classics Guns: Zero",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47157607,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/tacz-1.20.1-1.1.5.jar",
+            "MD5": "1ad1d97415a7112431d020fe12dda6da"
+          }
+        },
+        {
+          "id": "com.tiviacz:travelersbackpack:9.1.36@jar",
+          "name": "Traveler's Backpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1161380,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/travelersbackpack-forge-1.20.1-9.1.36.jar",
+            "MD5": "9436bd10d61fc139a6f4f39d85929317"
+          }
+        },
+        {
+          "id": "waves:waves:1.5.1@jar",
+          "name": "Waves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1278005,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/Waves-1.20.1-1.5.1.jar",
+            "MD5": "3ac9423d4430c0d616274e7a1ddf47fc"
           }
         },
         {
@@ -523,96 +903,6 @@
           }
         },
         {
-          "id": "CraftTweaker-forge-1.20.1-14.0.57.jar",
-          "name": "CraftTweaker-forge-1.20.1-14.0.57.jar",
-          "type": "File",
-          "artifact": {
-            "size": 3267904,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/CraftTweaker-forge-1.20.1-14.0.57.jar",
-            "path": "mods/CraftTweaker-forge-1.20.1-14.0.57.jar"
-          }
-        },
-        {
-          "id": "curios-forge-5.14.1+1.20.1.jar",
-          "name": "curios-forge-5.14.1+1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 398066,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/curios-forge-5.14.1+1.20.1.jar",
-            "path": "mods/curios-forge-5.14.1+1.20.1.jar"
-          }
-        },
-        {
-          "id": "dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar",
-          "name": "dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 376140,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar",
-            "path": "mods/dynamic-fps-3.9.4+minecraft-1.20.0-forge.jar"
-          }
-        },
-        {
-          "id": "EggDelight-v1.2-1.20.1.jar",
-          "name": "EggDelight-v1.2-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 623178,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/EggDelight-v1.2-1.20.1.jar",
-            "path": "mods/EggDelight-v1.2-1.20.1.jar"
-          }
-        },
-        {
-          "id": "embeddium-0.3.31+mc1.20.1.jar",
-          "name": "embeddium-0.3.31+mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1320675,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/embeddium-0.3.31+mc1.20.1.jar",
-            "path": "mods/embeddium-0.3.31+mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "entityculling-forge-1.7.4-mc1.20.1.jar",
-          "name": "entityculling-forge-1.7.4-mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 75290,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/entityculling-forge-1.7.4-mc1.20.1.jar",
-            "path": "mods/entityculling-forge-1.7.4-mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "entity_model_features_forge_1.20.1-2.4.1.jar",
-          "name": "entity_model_features_forge_1.20.1-2.4.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 445642,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/entity_model_features_forge_1.20.1-2.4.1.jar",
-            "path": "mods/entity_model_features_forge_1.20.1-2.4.1.jar"
-          }
-        },
-        {
-          "id": "entity_texture_features_forge_1.20.1-6.2.9.jar",
-          "name": "entity_texture_features_forge_1.20.1-6.2.9.jar",
-          "type": "File",
-          "artifact": {
-            "size": 676887,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/entity_texture_features_forge_1.20.1-6.2.9.jar",
-            "path": "mods/entity_texture_features_forge_1.20.1-6.2.9.jar"
-          }
-        },
-        {
-          "id": "exposure-1.20.1-1.7.13-forge.jar",
-          "name": "exposure-1.20.1-1.7.13-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1333908,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/exposure-1.20.1-1.7.13-forge.jar",
-            "path": "mods/exposure-1.20.1-1.7.13-forge.jar"
-          }
-        },
-        {
           "id": "fabric-api-0.92.2+1.11.12+1.20.1.jar",
           "name": "fabric-api-0.92.2+1.11.12+1.20.1.jar",
           "type": "File",
@@ -620,296 +910,6 @@
             "size": 3041277,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/fabric-api-0.92.2+1.11.12+1.20.1.jar",
             "path": "mods/fabric-api-0.92.2+1.11.12+1.20.1.jar"
-          }
-        },
-        {
-          "id": "FarmersDelight-1.20.1-1.2.7.jar",
-          "name": "FarmersDelight-1.20.1-1.2.7.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2954263,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/FarmersDelight-1.20.1-1.2.7.jar",
-            "path": "mods/FarmersDelight-1.20.1-1.2.7.jar"
-          }
-        },
-        {
-          "id": "ferritecore-6.0.1-forge.jar",
-          "name": "ferritecore-6.0.1-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 123034,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/ferritecore-6.0.1-forge.jar",
-            "path": "mods/ferritecore-6.0.1-forge.jar"
-          }
-        },
-        {
-          "id": "fishingoverhaul-1.20.1-1.2.0.jar",
-          "name": "fishingoverhaul-1.20.1-1.2.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 40368,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/fishingoverhaul-1.20.1-1.2.0.jar",
-            "path": "mods/fishingoverhaul-1.20.1-1.2.0.jar"
-          }
-        },
-        {
-          "id": "ForgeClientResetPacket-0.3.1.jar",
-          "name": "ForgeClientResetPacket-0.3.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 12869,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/ForgeClientResetPacket-0.3.1.jar",
-            "path": "mods/ForgeClientResetPacket-0.3.1.jar"
-          }
-        },
-        {
-          "id": "framework-forge-1.20.1-0.7.12.jar",
-          "name": "framework-forge-1.20.1-0.7.12.jar",
-          "type": "File",
-          "artifact": {
-            "size": 308420,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/framework-forge-1.20.1-0.7.12.jar",
-            "path": "mods/framework-forge-1.20.1-0.7.12.jar"
-          }
-        },
-        {
-          "id": "geckolib-forge-1.20.1-4.7.1.2.jar",
-          "name": "geckolib-forge-1.20.1-4.7.1.2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1012500,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/geckolib-forge-1.20.1-4.7.1.2.jar",
-            "path": "mods/geckolib-forge-1.20.1-4.7.1.2.jar"
-          }
-        },
-        {
-          "id": "gtnick-1.0-SNAPSHOT.jar",
-          "name": "gtnick-1.0-SNAPSHOT.jar",
-          "type": "File",
-          "artifact": {
-            "size": 22294,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/gtnick-1.0-SNAPSHOT.jar",
-            "path": "mods/gtnick-1.0-SNAPSHOT.jar"
-          }
-        },
-        {
-          "id": "immersive_aircraft-1.2.2+1.20.1-forge.jar",
-          "name": "immersive_aircraft-1.2.2+1.20.1-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2180392,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/immersive_aircraft-1.2.2+1.20.1-forge.jar",
-            "path": "mods/immersive_aircraft-1.2.2+1.20.1-forge.jar"
-          }
-        },
-        {
-          "id": "immersive_paintings-0.6.7+1.20.1-forge.jar",
-          "name": "immersive_paintings-0.6.7+1.20.1-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 4841253,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
-            "path": "mods/immersive_paintings-0.6.7+1.20.1-forge.jar"
-          }
-        },
-        {
-          "id": "Jade-1.20.1-Forge-11.13.1.jar",
-          "name": "Jade-1.20.1-Forge-11.13.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 550551,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/Jade-1.20.1-Forge-11.13.1.jar",
-            "path": "mods/Jade-1.20.1-Forge-11.13.1.jar"
-          }
-        },
-        {
-          "id": "jei-1.20.1-forge-15.20.0.106.jar",
-          "name": "jei-1.20.1-forge-15.20.0.106.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1379220,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/jei-1.20.1-forge-15.20.0.106.jar",
-            "path": "mods/jei-1.20.1-forge-15.20.0.106.jar"
-          }
-        },
-        {
-          "id": "journeymap-1.20.1-5.10.3-forge.jar",
-          "name": "journeymap-1.20.1-5.10.3-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 7160406,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/journeymap-1.20.1-5.10.3-forge.jar",
-            "path": "mods/journeymap-1.20.1-5.10.3-forge.jar"
-          }
-        },
-        {
-          "id": "justzoom_forge_2.1.1_MC_1.20.1.jar",
-          "name": "justzoom_forge_2.1.1_MC_1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 204574,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/justzoom_forge_2.1.1_MC_1.20.1.jar",
-            "path": "mods/justzoom_forge_2.1.1_MC_1.20.1.jar"
-          }
-        },
-        {
-          "id": "key_binding_mod-1.0-SNAPSHOT.jar",
-          "name": "key_binding_mod-1.0-SNAPSHOT.jar",
-          "type": "File",
-          "artifact": {
-            "size": 8292,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/key_binding_mod-1.0-SNAPSHOT.jar",
-            "path": "mods/key_binding_mod-1.0-SNAPSHOT.jar"
-          }
-        },
-        {
-          "id": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-          "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 625185,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-            "path": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
-          }
-        },
-        {
-          "id": "letsdo-beachparty-forge-2.0.2.jar",
-          "name": "letsdo-beachparty-forge-2.0.2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 7463421,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/letsdo-beachparty-forge-2.0.2.jar",
-            "path": "mods/letsdo-beachparty-forge-2.0.2.jar"
-          }
-        },
-        {
-          "id": "memoryleakfix-forge-1.17+-1.1.5.jar",
-          "name": "memoryleakfix-forge-1.17+-1.1.5.jar",
-          "type": "File",
-          "artifact": {
-            "size": 227925,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/memoryleakfix-forge-1.17+-1.1.5.jar",
-            "path": "mods/memoryleakfix-forge-1.17+-1.1.5.jar"
-          }
-        },
-        {
-          "id": "modernfix-forge-5.21.0+mc1.20.1.jar",
-          "name": "modernfix-forge-5.21.0+mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 824640,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/modernfix-forge-5.21.0+mc1.20.1.jar",
-            "path": "mods/modernfix-forge-5.21.0+mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "ModernxlSurvival_1.3.2_v1.20.1.jar",
-          "name": "ModernxlSurvival_1.3.2_v1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 78510103,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/ModernxlSurvival_1.3.2_v1.20.1.jar",
-            "path": "mods/ModernxlSurvival_1.3.2_v1.20.1.jar"
-          }
-        },
-        {
-          "id": "moredelight-25.01.13-1.20-forge.jar",
-          "name": "moredelight-25.01.13-1.20-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 143363,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/moredelight-25.01.13-1.20-forge.jar",
-            "path": "mods/moredelight-25.01.13-1.20-forge.jar"
-          }
-        },
-        {
-          "id": "naturalist-5.0pre3+forge-1.20.1.jar",
-          "name": "naturalist-5.0pre3+forge-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 3806919,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/naturalist-5.0pre3+forge-1.20.1.jar",
-            "path": "mods/naturalist-5.0pre3+forge-1.20.1.jar"
-          }
-        },
-        {
-          "id": "oculus-mc1.20.1-1.8.0.jar",
-          "name": "oculus-mc1.20.1-1.8.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2851119,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/oculus-mc1.20.1-1.8.0.jar",
-            "path": "mods/oculus-mc1.20.1-1.8.0.jar"
-          }
-        },
-        {
-          "id": "plasmovoice-forge-1.20.1-2.1.4.jar",
-          "name": "plasmovoice-forge-1.20.1-2.1.4.jar",
-          "type": "File",
-          "artifact": {
-            "size": 12152471,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/plasmovoice-forge-1.20.1-2.1.4.jar",
-            "path": "mods/plasmovoice-forge-1.20.1-2.1.4.jar"
-          }
-        },
-        {
-          "id": "refurbished_furniture-forge-1.20.1-1.0.12.jar",
-          "name": "refurbished_furniture-forge-1.20.1-1.0.12.jar",
-          "type": "File",
-          "artifact": {
-            "size": 6687573,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/refurbished_furniture-forge-1.20.1-1.0.12.jar",
-            "path": "mods/refurbished_furniture-forge-1.20.1-1.0.12.jar"
-          }
-        },
-        {
-          "id": "stardew_fishing-1.20.1-2.3.jar",
-          "name": "stardew_fishing-1.20.1-2.3.jar",
-          "type": "File",
-          "artifact": {
-            "size": 567590,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/stardew_fishing-1.20.1-2.3.jar",
-            "path": "mods/stardew_fishing-1.20.1-2.3.jar"
-          }
-        },
-        {
-          "id": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
-          "name": "supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 515362,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
-            "path": "mods/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "tacz-1.20.1-1.1.5.jar",
-          "name": "tacz-1.20.1-1.1.5.jar",
-          "type": "File",
-          "artifact": {
-            "size": 47157607,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/tacz-1.20.1-1.1.5.jar",
-            "path": "mods/tacz-1.20.1-1.1.5.jar"
-          }
-        },
-        {
-          "id": "travelersbackpack-forge-1.20.1-9.1.36.jar",
-          "name": "travelersbackpack-forge-1.20.1-9.1.36.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1161380,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/travelersbackpack-forge-1.20.1-9.1.36.jar",
-            "path": "mods/travelersbackpack-forge-1.20.1-9.1.36.jar"
-          }
-        },
-        {
-          "id": "Waves-1.20.1-1.5.1.jar",
-          "name": "Waves-1.20.1-1.5.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1278005,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/Waves-1.20.1-1.5.1.jar",
-            "path": "mods/Waves-1.20.1-1.5.1.jar"
           }
         },
         {
