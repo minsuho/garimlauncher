@@ -603,6 +603,16 @@
           }
         },
         {
+          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.2+1.11.12+1.20.1@jar",
+          "name": "Forgified Fabric API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3041277,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/fabric-api-0.92.2+1.11.12+1.20.1.jar",
+            "MD5": "b430b265a793d097d5567a960c6a5492"
+          }
+        },
+        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.7@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
@@ -900,16 +910,6 @@
             "size": 5043375,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/libraries/Connector-1.0.0-beta.46+1.20.1.jar",
             "MD5": "c12d01f7b20d6909689e458dd9fa760b"
-          }
-        },
-        {
-          "id": "generated.library:fabric:api-0.92.2+1.11.12+1.20.1@jar",
-          "name": "fabric",
-          "type": "Library",
-          "artifact": {
-            "size": 3041277,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/libraries/fabric-api-0.92.2+1.11.12+1.20.1.jar",
-            "MD5": "b430b265a793d097d5567a960c6a5492"
           }
         },
         {
