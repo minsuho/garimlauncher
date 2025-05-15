@@ -909,6 +909,7 @@
           "artifact": {
             "size": 5043375,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/Connector-1.0.0-beta.46+1.20.1.jar",
+            "MD5": "c12d01f7b20d6909689e458dd9fa760b",
             "path": "mods/Connector-1.0.0-beta.46+1.20.1.jar"
           }
         },
@@ -919,6 +920,7 @@
           "artifact": {
             "size": 1016666,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/continuity-3.0.0+1.20.1.forge.jar",
+            "MD5": "d14cdccb4b6c161d9846cc8cdf03068e",
             "path": "mods/continuity-3.0.0+1.20.1.forge.jar"
           }
         },
@@ -929,6 +931,7 @@
           "artifact": {
             "size": 3041277,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/mods/fabric-api-0.92.2+1.11.12+1.20.1.jar",
+            "MD5": "b430b265a793d097d5567a960c6a5492",
             "path": "mods/fabric-api-0.92.2+1.11.12+1.20.1.jar"
           }
         },
@@ -949,6 +952,7 @@
           "artifact": {
             "size": 200,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Godo%20-%20Font%20Pack/assets/minecraft/font/default.json",
+            "MD5": "299cf33e9e5d31f7b458cffe7f52dddb",
             "path": "resourcepacks/Godo - Font Pack/assets/minecraft/font/default.json"
           }
         },
@@ -959,6 +963,7 @@
           "artifact": {
             "size": 2183056,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Godo%20-%20Font%20Pack/assets/minecraft/font/font.ttf",
+            "MD5": "9321ba9c21a3d4e12855e6862943a3ab",
             "path": "resourcepacks/Godo - Font Pack/assets/minecraft/font/font.ttf"
           }
         },
@@ -969,6 +974,7 @@
           "artifact": {
             "size": 84,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Godo%20-%20Font%20Pack/pack.mcmeta",
+            "MD5": "89271283423eb685dd06aed8a4d76895",
             "path": "resourcepacks/Godo - Font Pack/pack.mcmeta"
           }
         },
@@ -979,6 +985,7 @@
           "artifact": {
             "size": 680,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Godo%20-%20Font%20Pack/pack.png",
+            "MD5": "8086596f245557a58a69224256dd6819",
             "path": "resourcepacks/Godo - Font Pack/pack.png"
           }
         },

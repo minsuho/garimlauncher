@@ -21,7 +21,11 @@
     {
       "appliesTo": ["files"],
       "patterns": [
-        "**/*"
+        "resourcepacks/*",
+        "shaderpacks/*",
+        "options.txt",
+        "servers.dat",
+        "servers.dat_old"
       ]
     }
   ]
