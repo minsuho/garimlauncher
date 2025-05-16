@@ -483,6 +483,16 @@
           }
         },
         {
+          "id": "com.laidbacksloth:brightnessslider:1.0@jar",
+          "name": "Better Brightness Slider",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 42293,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/brightnessslider-forge-1.0-1.20.jar",
+            "MD5": "9d827ff4945fe818cb0bd73d3ba929e7"
+          }
+        },
+        {
           "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
           "name": "CaramelChat",
           "type": "ForgeMod",
@@ -1114,7 +1124,7 @@
           "name": "photon_v1.1.zip.txt",
           "type": "File",
           "artifact": {
-            "size": 264,
+            "size": 631,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/shaderpacks/photon_v1.1.zip.txt",
             "path": "shaderpacks/photon_v1.1.zip.txt"
           }
