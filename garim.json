@@ -960,7 +960,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8913,
+            "size": 8915,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -1010,13 +1010,13 @@
           }
         },
         {
-          "id": "Patrix_1.20_32x_basic.zip",
-          "name": "Patrix_1.20_32x_basic.zip",
+          "id": "Patrix_1.20.6_32x_basic.zip",
+          "name": "Patrix_1.20.6_32x_basic.zip",
           "type": "File",
           "artifact": {
-            "size": 53321921,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Patrix_1.20_32x_basic.zip",
-            "path": "resourcepacks/Patrix_1.20_32x_basic.zip"
+            "size": 61163339,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/Patrix_1.20.6_32x_basic.zip",
+            "path": "resourcepacks/Patrix_1.20.6_32x_basic.zip"
           }
         },
         {

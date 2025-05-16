@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","tacz_resources","mod_resources","file/Presence Footsteps R3.zip","file/Rain Revamp [1.20].zip","file/SkyVillages-LetsDoBeachparty-1.20.1-1.0.4.1.zip","file/Godo - Font Pack","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Patrix_1.20_32x_basic.zip"]
+resourcePacks:["vanilla","tacz_resources","mod_resources","file/Presence Footsteps R3.zip","file/Rain Revamp [1.20].zip","file/SkyVillages-LetsDoBeachparty-1.20.1-1.0.4.1.zip","file/Godo - Font Pack","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Patrix_1.20.6_32x_basic.zip"]
 incompatibleResourcePacks:["file/Presence Footsteps R3.zip","file/SkyVillages-LetsDoBeachparty-1.20.1-1.0.4.1.zip","file/Godo - Font Pack"]
 lastServer:
 lang:ko_kr
