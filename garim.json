@@ -483,16 +483,6 @@
           }
         },
         {
-          "id": "com.laidbacksloth:brightnessslider:1.0@jar",
-          "name": "Better Brightness Slider",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 42293,
-            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/brightnessslider-forge-1.0-1.20.jar",
-            "MD5": "9d827ff4945fe818cb0bd73d3ba929e7"
-          }
-        },
-        {
           "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
           "name": "CaramelChat",
           "type": "ForgeMod",
@@ -900,6 +890,16 @@
             "size": 443978,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
             "MD5": "75807590ae2648ecdeb855705868ce59"
+          }
+        },
+        {
+          "id": "me.lucko:spark:1.10.136@jar",
+          "name": "Spark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3756615,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/spark-1.10.136-forge.jar",
+            "MD5": "487ce05a7148cec1bae791ed8a1e7ec2"
           }
         },
         {
