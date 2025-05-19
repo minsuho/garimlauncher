@@ -573,6 +573,16 @@
           }
         },
         {
+          "id": "xyz.vsngamer:elevatorid:1.20.1-lex-1.9@jar",
+          "name": "Elevator Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188132,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/elevatorid-1.20.1-lex-1.9.jar",
+            "MD5": "35c05c6c14993fe3fb38917ce09f51b8"
+          }
+        },
+        {
           "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
           "name": "Embeddium",
           "type": "ForgeMod",
