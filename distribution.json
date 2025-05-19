@@ -697,9 +697,9 @@
           "name": "GtNick Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 22294,
+            "size": 25328,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/gtnick-1.0-SNAPSHOT.jar",
-            "MD5": "93c7e2025182ed4d8d66318914ed214f"
+            "MD5": "39bc0a1f72b84b4041f404bd26c86970"
           }
         },
         {
