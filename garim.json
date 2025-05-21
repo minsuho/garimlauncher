@@ -473,6 +473,16 @@
           }
         },
         {
+          "id": "io.github.foundationgames:automobility:0.4.2+1.20.1-forge@jar",
+          "name": "Automobility",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1054094,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/forgemods/required/automobility-0.4.2+1.20.1-forge.jar",
+            "MD5": "fb16b053cc0eda55bb287c1aa926dcb5"
+          }
+        },
+        {
           "id": "me.treyruffy:betterf3:7.0.2@jar",
           "name": "BetterF3",
           "type": "ForgeMod",
