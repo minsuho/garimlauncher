@@ -1020,7 +1020,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8936,
+            "size": 8870,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/options.txt",
             "path": "options.txt"
           }
