@@ -1020,9 +1020,19 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8915,
+            "size": 8936,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 473520,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/resourcepacks/generated.zip",
+            "path": "resourcepacks/generated.zip"
           }
         },
         {
@@ -1136,6 +1146,7 @@
           "artifact": {
             "size": 3563885,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/shaderpacks/photon_v1.1.zip",
+            "MD5": "e4f15b886ee2ed7349ca264bcfcc1147",
             "path": "shaderpacks/photon_v1.1.zip"
           }
         },
@@ -1146,6 +1157,7 @@
           "artifact": {
             "size": 631,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim-1.20.1/files/shaderpacks/photon_v1.1.zip.txt",
+            "MD5": "52714dcfe95fb528399fa64364bf58e3",
             "path": "shaderpacks/photon_v1.1.zip.txt"
           }
         }

@@ -22,7 +22,12 @@
       "appliesTo": ["files"],
       "patterns": [
         "resourcepacks/*",
-        "shaderpacks/*",
+        "shaderpacks/Patrix_1.20.6_32x_basic.zip",
+        "shaderpacks/Godo - Font Pack/*",
+        "shaderpacks/Godo - Font Pack/assets/minecraft/font/*",
+        "shaderpacks/Presence Footsteps R3.zip",
+        "shaderpacks/Rain Revamp [1.20].zip",
+        "shaderpacks/SkyVillages-LetsDoBeachparty-1.20.1-1.0.4.1.zip",
         "config/*",
         "options.txt",
         "servers.dat",
