@@ -1,7 +1,7 @@
 {
   "$schema": "file:///C:/Users/11/Documents/GitHub/garimlauncher/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "garim (Minecraft 1.20.1)",
     "description": "garim Running Minecraft 1.20.1 (Forge v47.4.0)",
     "icon": "https://github.com/minsuho/garimlauncher/blob/main/ico.png",
