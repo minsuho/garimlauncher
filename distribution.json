@@ -1020,7 +1020,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 8870,
+            "size": 8949,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -1077,6 +1077,16 @@
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/files/resourcepacks/Godo%20-%20Font%20Pack/pack.png",
             "MD5": "8086596f245557a58a69224256dd6819",
             "path": "resourcepacks/Godo - Font Pack/pack.png"
+          }
+        },
+        {
+          "id": "gui.zip",
+          "name": "gui.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3188807,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/files/resourcepacks/gui.zip",
+            "path": "resourcepacks/gui.zip"
           }
         },
         {
