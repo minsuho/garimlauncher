@@ -743,6 +743,16 @@
           }
         },
         {
+          "id": "com.github.alexthe668:iwannaskate:1.2.0@jar",
+          "name": "I Wanna Skate",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1461417,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/forgemods/required/iwannaskate-1.2.0.jar",
+            "MD5": "b4bd88188adf5d81e9f6f329c2e0cf4e"
+          }
+        },
+        {
           "id": "snownee.jade:jade:11.13.1+forge@jar",
           "name": "Jade",
           "type": "ForgeMod",
