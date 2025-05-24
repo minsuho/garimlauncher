@@ -503,6 +503,16 @@
           }
         },
         {
+          "id": "com.github.alexthe666:citadel:2.6.1@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3173637,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/forgemods/required/citadel-2.6.1-1.20.1.jar",
+            "MD5": "d7c8be4b34cfd4db20ad1747b122d07c"
+          }
+        },
+        {
           "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
           "name": "Cloth Config v10 API",
           "type": "ForgeMod",
