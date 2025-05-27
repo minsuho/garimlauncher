@@ -1154,8 +1154,9 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 9896,
+            "size": 24980,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/files/servers.dat",
+            "MD5": "e811b41ad2b72deb0eab71029402e95f",
             "path": "servers.dat"
           }
         },
@@ -1164,8 +1165,9 @@
           "name": "servers.dat_old",
           "type": "File",
           "artifact": {
-            "size": 9896,
+            "size": 24980,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/files/servers.dat_old",
+            "MD5": "33acca41b04c3b6fcf7a1a5527780702",
             "path": "servers.dat_old"
           }
         },
