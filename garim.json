@@ -12,7 +12,7 @@
       "name": "garim1 (Minecraft 1.20.1)",
       "description": "garim1 Running Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://github.com/minsuho/garimlauncher/blob/main/ico.png",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "address": "mc.gitter0.xyz",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -477,9 +477,9 @@
           "name": "Autoconnect",
           "type": "ForgeMod",
           "artifact": {
-            "size": 10679,
+            "size": 10574,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/forgemods/required/autoconnect-1.0-SNAPSHOT.jar",
-            "MD5": "6693a728fa08de41c093bbb080ba27f5"
+            "MD5": "29d1f635e68def32d596bdd69158ad90"
           }
         },
         {
