@@ -23,7 +23,7 @@
       "mainServer": true,
       "autoconnect": true,
       "server": {
-        "ip": "혜담.서버.한국",
+        "ip": "mc.gitter0.xyz",
         "port": 25565
       },
       "modules": [
