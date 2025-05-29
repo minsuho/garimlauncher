@@ -12,7 +12,7 @@
       "name": "garim1 (Minecraft 1.20.1)",
       "description": "garim1 Running Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://github.com/minsuho/garimlauncher/blob/main/ico.png",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "address": "mc.gitter0.xyz",
       "minecraftVersion": "1.20.1",
       "discord": {
