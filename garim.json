@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -22,6 +22,10 @@
       },
       "mainServer": true,
       "autoconnect": true,
+      "server": {
+        "ip": "mc.gitter0.xyz",
+        "port": 25565
+      },
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.0",
