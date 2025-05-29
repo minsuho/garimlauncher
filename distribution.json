@@ -12,7 +12,7 @@
       "name": "garim1 (Minecraft 1.20.1)",
       "description": "garim1 Running Minecraft 1.20.1 (Forge v47.4.0)",
       "icon": "https://github.com/minsuho/garimlauncher/blob/main/ico.png",
-      "version": "1.0.0",
+      "version": "1.0.5",
       "address": "mc.gitter0.xyz",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -21,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.0",
@@ -470,6 +470,16 @@
             "size": 5810422,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/forgemods/required/armourersworkshop-forge-1.20.1-3.2.0-beta.jar",
             "MD5": "530d5f07e42ee3d4a85f7b42e7c15d6b"
+          }
+        },
+        {
+          "id": "com.gitter:autoconnect:1.0-SNAPSHOT@jar",
+          "name": "Autoconnect",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10674,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/forgemods/required/autoconnect-1.0-SNAPSHOT.jar",
+            "MD5": "23ed71f26a217b369d44b0edc3a34e44"
           }
         },
         {
