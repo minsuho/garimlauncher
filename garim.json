@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -477,9 +477,9 @@
           "name": "Autoconnect",
           "type": "ForgeMod",
           "artifact": {
-            "size": 10674,
+            "size": 10679,
             "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/forgemods/required/autoconnect-1.0-SNAPSHOT.jar",
-            "MD5": "23ed71f26a217b369d44b0edc3a34e44"
+            "MD5": "6693a728fa08de41c093bbb080ba27f5"
           }
         },
         {
