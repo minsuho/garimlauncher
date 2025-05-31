@@ -743,6 +743,16 @@
           }
         },
         {
+          "id": "com.starfish_studios:hamsters:1.20.1-1.0.3@jar",
+          "name": "Hamsters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439448,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/forgemods/required/hamsters-forge-1.0.3-1.20.1.jar",
+            "MD5": "02b3f3a37e2a07b356982c51572ed4d6"
+          }
+        },
+        {
           "id": "immersive_aircraft:immersive_aircraft:1.2.2+1.20.1@jar",
           "name": "Immersive Aircraft",
           "type": "ForgeMod",
