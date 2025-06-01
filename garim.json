@@ -813,6 +813,16 @@
           }
         },
         {
+          "id": "net.mysticdrew:journeymapteams:1.1.0@jar",
+          "name": "JourneyMap-Teams",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 214577,
+            "url": "https://raw.githubusercontent.com/minsuho/garimlauncher/main/servers/garim1-1.20.1/forgemods/required/JourneyMap-Teams-forge-1.20.1-1.1.0.jar",
+            "MD5": "b789dfc68bd9ab92cb0fe2857d88bea4"
+          }
+        },
+        {
           "id": "de.keksuccino:justzoom:2.1.1@jar",
           "name": "Just Zoom",
           "type": "ForgeMod",
